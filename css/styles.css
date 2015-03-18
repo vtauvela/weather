@@ -38,7 +38,7 @@ h5 {
 }
 
 .bottom {
-  margin: 175px 0 0 50px;
+  margin: 240px 0 0 50px;
 }
 
 .form {
@@ -64,10 +64,10 @@ h5 {
 }
 
 .wrapper {
-  background-image: url(http://2.bp.blogspot.com/-o9lhnGH7uDs/Tu8h30qG4jI/AAAAAAAAAJs/f5JS5yVzUB4/s1600/Big-Sky-Sunset.jpg);
+  background-image: url('../img/bg.jpg');
   margin: 0 auto;
   width: 1280px;
-  height: 640px;
+  height: 775px;
   position: relative;
   overflow: hidden;
 }
