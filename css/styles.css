@@ -23,7 +23,7 @@
 html {
   width: 100%;
   height: 100%;
-  background: #1192d3 url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/93/austin-2.jpg) no-repeat bottom right;
+  background: #1192d3 url(http://www.martworkshop.com/var/albums/free-textures/Sky/sky%20background%20texture%2009.JPG) no-repeat bottom right;
   background-size: cover;
 }
 
@@ -41,7 +41,7 @@ body {
 
 i {
   color: #fff;
-  font-family: Arial;
+  font-family: weather;
   font-size: 150px;
   font-weight: normal;
   font-style: normal;
